@@ -33,7 +33,6 @@ terraform-project/
 
 ---
 
-# Step 1 - Configure AWS Provider
 
 File: provider.tf
 
