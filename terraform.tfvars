@@ -1,0 +1,1 @@
+bucket_name = "nikhil-static-website-demo-123"
